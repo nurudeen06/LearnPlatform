@@ -1,0 +1,15 @@
+data = {
+	"question": [
+		{
+			"question" : "What is Variables used for JavaScript?",
+			"options" : [
+				{
+					"a":"Storing Values",
+					"b":"Getting Inputs",
+					"c":"Making Functions",
+					"d":"Displaying Version"
+				}
+			]
+		}
+	]
+}
